@@ -1,6 +1,8 @@
 Morgan Freeman
 ==============
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/morganfreeman.svg)](https://www.guardrails.io)
+
 A server-side statistics tool for icecast server.
 
 (Like Google Analytics, but worst.)
